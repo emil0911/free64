@@ -10,4 +10,4 @@ Free64 далеко не полностью копирует AIDA64 Extreme.
 
 # Screenshots
 
-![Image | Изображение](SCREEN.PNG?raw=true "Title")
+![Image | Изображение](SCREEN.png?raw=true "Title")
