@@ -7,3 +7,7 @@ Free64 does not fully copy AIDA64 Extreme.
 
 Free64 это аналог AIDA64 Extreme версии 5 и 6, но бесплатная, и с открытым исходным кодом под лицензией GNU LGPL v3.
 Free64 далеко не полностью копирует AIDA64 Extreme. 
+
+# Screenshots
+
+![Image](screens/screen02.png?raw=true "Title")
