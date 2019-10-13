@@ -35,13 +35,13 @@ Step 4: Select "free64 30.09.19.dvs" file (src file)
 
 Step 5: Press F5
 
-![IMAGE](screens/how_to_start/3.png?raw=true)
-
 Step 6: Select output directory.
 
-![IMAGE](screens/how_to_start/4.png?raw=true)
+![IMAGE](screens/how_to_start/3.png?raw=true)
 
 Step 7: Click "Build".
+
+![IMAGE](screens/how_to_start/4.png?raw=true)
 
 Step 8: Move "data" directory in output directory ("data" dir from repo)
 
