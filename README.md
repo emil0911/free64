@@ -23,15 +23,23 @@ Microsoft Visual C++ 2008 Redistibutable.
 
 Step 1: Download DevelStudio 3: [develstudio.org](http://www.develstudio.org)
 
+![IMAGE](screens/how_to_start/1.png?raw=true)
+
 Step 2: Install it
 
 Step 3: Open DevelStudio 3 and click "Open"
+
+![IMAGE](screens/how_to_start/2.png?raw=true)
 
 Step 4: Select "free64 30.09.19.dvs" file (src file)
 
 Step 5: Press F5
 
+![IMAGE](screens/how_to_start/3.png?raw=true)
+
 Step 6: Select output directory.
+
+![IMAGE](screens/how_to_start/4.png?raw=true)
 
 Step 7: Click "Build".
 
