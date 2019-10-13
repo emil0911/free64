@@ -17,4 +17,16 @@ Free64 далеко не полностью копирует AIDA64 Extreme.
 
 Windows Vista or newer.
 
-Microsoft Visual C++ 2008 Redistibutable
+Microsoft Visual C++ 2008 Redistibutable.
+
+# How to compile
+
+Step 1: Download DevelStudio 3: develstudio.org
+Step 2: Install it
+Step 3: Open DevelStudio 3 and click "Open"
+Step 4: Select "free64 30.09.19.dvs" file (src file)
+Step 5: Press F5
+Step 6: Select output directory.
+Step 7: Click "Build".
+Step 8: Move "data" directory in output directory ("data" dir from repo)
+Step 8: All is done!
