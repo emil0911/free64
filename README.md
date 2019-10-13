@@ -12,3 +12,8 @@ Free64 далеко не полностью копирует AIDA64 Extreme.
 
 ![Image | Изображение](SCREEN.png?raw=true "Screenshot")
 ![Image | Изображение](SCREEN2.png?raw=true "Screenshot")
+
+# System Requirements
+
+Windows Vista or newer.
+Microsoft Visual C++ 2008 Redistibutable
