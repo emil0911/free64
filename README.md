@@ -46,3 +46,11 @@ Step 7: Click "Build".
 Step 8: Move "data" directory in output directory ("data" dir from repo)
 
 Step 9: All is done!
+
+# Types of releases
+
+Alpha - is very not stable release, this release only for acquaintance.
+
+Beta - is not very stable release, it may be useful.
+
+Gamma - is very stable release, it may be useful. 
