@@ -15,7 +15,7 @@ Free64 далеко не полностью копирует AIDA64 Extreme.
 
 # System Requirements
 
-Windows Vista or newer.
+Windows XP or newer.
 
 Microsoft Visual C++ 2008 Redistibutable.
 
