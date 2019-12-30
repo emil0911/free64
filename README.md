@@ -23,7 +23,7 @@ Microsoft Visual C++ 2008 Redistibutable.
 
 ### How to compile
 
-Step 1: Download DevelStudio 3: [develstudio.org](http://www.develstudio.org)
+Step 1: Download DevelStudio 3: [develstudio.ru](http://www.develstudio.ru)
 
 ![IMAGE](screens/how_to_start/1.png?raw=true)
 
