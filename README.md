@@ -1,25 +1,27 @@
-# Free64 (English)
+# Free64
+
 Free64 is an analogue of AIDA64 Extreme versions 5 and 6, but free and open source under the GNU LGPL v3 license.
-Free64 does not fully copy AIDA64 Extreme.
-
-
-# Free64 (Русский)
+Program does not fully copy AIDA64 Extreme.
 
 Free64 это аналог AIDA64 Extreme версии 5 и 6, но бесплатная, и с открытым исходным кодом под лицензией GNU LGPL v3.
-Free64 далеко не полностью копирует AIDA64 Extreme. 
+Программа далеко не полностью копирует AIDA64 Extreme. 
 
-# Screenshots
+### Screenshots
 
-![Image | Изображение](SCREEN.png?raw=true "Screenshot")
-![Image | Изображение](SCREEN2.png?raw=true "Screenshot")
+![Image | Изображение](https://raw.githubusercontent.com/emil0911/free64/master/SCREEN.png?raw=true "Screenshot")
+![Image | Изображение](https://raw.githubusercontent.com/emil0911/free64/master/SCREEN2.png?raw=true "Screenshot")
 
-# System Requirements
+### Where download a build?
+
+[Here](https://github.com/emil0911/free64/releases)
+
+### System Requirements
 
 ![IMAGE](https://raw.githubusercontent.com/emil0911/free64/master/screens/winxp.png?raw=true) Windows XP or newer.
 
 Microsoft Visual C++ 2008 Redistibutable.
 
-# How to compile
+### How to compile
 
 Step 1: Download DevelStudio 3: [develstudio.org](http://www.develstudio.org)
 
@@ -43,11 +45,11 @@ Step 7: Click "Build".
 
 ![IMAGE](screens/how_to_start/4.png?raw=true)
 
-Step 8: Move "data" directory in output directory ("data" dir from repo)
+Step 8: Move "data" directory in output directory ("data" dir from [repo](https://github.com/emil0911/free64))
 
 Step 9: All is done!
 
-# Types of releases
+### Types of releases
 
 Alpha - is very not stable release, this release only for acquaintance.
 
