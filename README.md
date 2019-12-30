@@ -8,7 +8,7 @@ Free64 это аналог AIDA64 Extreme версии 5 и 6, но беспла
 
 ### Screenshots
 
-![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/SCREEN.png?raw=true "Screenshot")
+![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen.png?raw=true "Screenshot")
 ![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/SCREEN2.png?raw=true "Screenshot")
 
 ### Where download a build?
