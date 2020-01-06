@@ -55,4 +55,7 @@ Alpha - is very not stable release, this release only for acquaintance.
 
 Beta - is not very stable release, it may be useful.
 
-Stable - is very stable release, it may be useful. 
+Stable - is very stable release, it may be useful.
+
+### Logo
+![IMAGE](https://github.com/emil0911/free64/blob/master/free64-logo.png?raw=true)
