@@ -17,9 +17,11 @@ Free64 это аналог AIDA64 Extreme версии 5 и 6, но беспла
 
 ### System Requirements
 
-![IMAGE](https://raw.githubusercontent.com/emil0911/free64/master/screens/winxp.png?raw=true) Windows XP or newer.
+![IMAGE](https://raw.githubusercontent.com/emil0911/free64/master/screens/winxp.png?raw=true) Windows XP SP0 or newer. 
 
 Microsoft Visual C++ 2008 Redistibutable.
+
+~7 MB Free disk space
 
 ### How to compile
 
