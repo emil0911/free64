@@ -21,7 +21,7 @@ Free64 это аналог AIDA64 Extreme версии 5 и 6, но беспла
 
 Microsoft Visual C++ 2008 Redistibutable.
 
-~7 MB Free disk space
+~10 MB Free disk space
 
 ### How to compile
 
