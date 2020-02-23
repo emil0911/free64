@@ -35,7 +35,7 @@ Step 3: Open DevelStudio 3 and click "Open"
 
 ![IMAGE](screens/how_to_start/2.png?raw=true)
 
-Step 4: Select "free64.dvs" file (source file)
+Step 4: Select "[free64.dvs](free64.dvs?raw=true)" file (source file)
 
 Step 5: Press F5 key
 
