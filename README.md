@@ -1,10 +1,10 @@
 # Free64 Extreme Edition
 
-Free64 is an analogue of AIDA64 Extreme versions 5 and 6, but free and open source under the GNU LGPL v3 license.
-Program does not fully copy AIDA64 Extreme.
+Free64 - is an analogue of AIDA64 Extreme versions 5 and 6, but free and open source under the GNU LGPL v3 license.
+Program does not copy AIDA64 Extreme, but it is an alternative
 
-Free64 это аналог AIDA64 Extreme версии 5 и 6, но бесплатная, и с открытым исходным кодом под лицензией GNU LGPL v3.
-Программа далеко не полностью копирует AIDA64 Extreme. 
+Free64 - это аналог AIDA64 Extreme версии 5 и 6, но бесплатная, и с открытым исходным кодом под лицензией GNU LGPL v3.
+Программа не копирует AIDA64 Extreme по коду, а просто является альтернативой.
 
 ## Screenshots
 
