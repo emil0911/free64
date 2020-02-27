@@ -6,7 +6,7 @@ Program does not copy AIDA64 Extreme, but it is an alternative
 Free64 - это аналог AIDA64 Extreme версии 5 и 6, но бесплатная, и с открытым исходным кодом под лицензией GNU LGPL v3.
 Программа не копирует AIDA64 Extreme по коду, а просто является альтернативой.
 
-## Screenshots
+## [Screenshots](https://github.com/emil0911/free64/tree/master/screens) 
 
 ![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screens/035-1.png?raw=true "Screenshot")
 ![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screens/035-2.png?raw=true "Screenshot")
