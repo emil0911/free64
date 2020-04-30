@@ -31,6 +31,8 @@ Step 1: Download DevelStudio 3: [develstudio.ru](http://develstudio.ru)
 
 Step 2: Install it
 
+Step 2.5: Install [TOpenChart](https://github.com/emil0911/openChart)
+
 Step 3: Open DevelStudio 3 and click "Open"
 
 ![IMAGE](screens/how_to_start/2.png?raw=true)
