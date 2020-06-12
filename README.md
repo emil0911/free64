@@ -63,7 +63,7 @@ Stable - is very stable release, it may be useful.
 
 ## Donate
 If someone wants to support my project, the link to DonationAlerts is here:
-[HERE](donationalerts.com/r/emildalalyan)
+[HERE](https://donationalerts.com/r/emildalalyan)
 
 ## Logo
 ![IMAGE](https://github.com/emil0911/free64/blob/master/free64-logo.png?raw=true)
