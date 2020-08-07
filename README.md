@@ -59,6 +59,8 @@ Alpha - is very not stable release, this release only for acquaintance.
 
 Beta - is not very stable release, it may be useful.
 
+Gamma - is pre-release, it may be useful.
+
 Stable - is very stable release, it may be useful.
 
 ## Donate
