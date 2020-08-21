@@ -8,8 +8,8 @@ Free64 - это аналог AIDA64 Extreme версии 5 и 6, но беспл
 
 ## [Screenshots](https://github.com/emil0911/free64/tree/master/screens) 
 
-![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screens/035-1.png?raw=true "Screenshot")
-![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screens/035-2.png?raw=true "Screenshot")
+![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen1.png?raw=true "Screenshot")
+![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen2.png?raw=true "Screenshot")
 
 ## Where download a build?
 
@@ -17,7 +17,7 @@ Free64 - это аналог AIDA64 Extreme версии 5 и 6, но беспл
 
 ## System Requirements
 
-![IMAGE](https://raw.githubusercontent.com/emil0911/free64/master/screens/winxp.png?raw=true) Windows XP SP0 or newer. 
+Windows XP SP0 or newer. 
 
 Microsoft Visual C++ 2008 Redistibutable.
 
