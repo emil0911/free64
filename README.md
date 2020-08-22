@@ -21,12 +21,19 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 **[Here | Здесь](https://github.com/emil0911/free64/releases)**
 
 ## System Requirements | Системные требования:
++ Microsoft **Visual C++ 2008** Redistibutable.
 
-**Windows XP SP0** or newer. 
+#### Minimal
+  + Microsoft **Windows XP SP0** or newer. 
+  
+  + **~10 MB** Free disk space
+  
+  + **800x600** screen, but Keyboard Test shows incorrectly on this resolution
 
-Microsoft **Visual C++ 2008** Redistibutable.
-
-**~10 MB** Free disk space
+#### Recommended
+  + **1024x600** screen
+  
+  + Microsoft **Windows 7** or newer
 
 ## How to compile? | Как собрать?
 
