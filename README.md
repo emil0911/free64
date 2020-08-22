@@ -11,7 +11,7 @@ Silk Icon Project for icons
 
 Проекту Silk Icon Project за иконки
 
-## [Screenshots](https://github.com/emil0911/free64/tree/master/screens) 
+## Screenshots
 
 ![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen1.png?raw=true "Screenshot")
 ![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen2.png?raw=true "Screenshot")
