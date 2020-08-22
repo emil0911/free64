@@ -56,7 +56,7 @@ Step 7: Click "Build".
 
 Step 8: Move "data" directory in output directory ("data" dir from [release](https://github.com/emil0911/free64/releases))
 
-#### Done!
+**Done!**
 
 ## Types of versions | Типы версий
 
