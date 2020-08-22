@@ -7,9 +7,9 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 Программа не копирует AIDA64 Extreme по коду, а просто является альтернативой.
 
 ### Thanks to | Спасибо
-***Silk Icon Project*** for icons
+*Silk Icon Project* for icons
 
-Проекту ***Silk Icon Project*** за иконки
+Проекту *Silk Icon Project* за иконки
 
 ## Screenshots | Скриншоты:
 
@@ -22,11 +22,11 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 
 ## System Requirements | Системные требования:
 
-Windows XP SP0 or newer. 
+**Windows XP SP0** or newer. 
 
-Microsoft Visual C++ 2008 Redistibutable.
+Microsoft **Visual C++ 2008** Redistibutable.
 
-~10 MB Free disk space
+**~10 MB** Free disk space
 
 ## How to compile? | Как собрать?
 
@@ -42,7 +42,7 @@ Step 3: Open DevelStudio 3 and click *Open*
 
 ![IMAGE](screens/how_to_start/2.png?raw=true)
 
-Step 4: Select **"[free64.dvs](free64.dvs?raw=true)"** file (source file)
+Step 4: Select **[free64.dvs](free64.dvs?raw=true)** file (source file)
 
 Step 5: Press *F5* key
 
