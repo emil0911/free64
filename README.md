@@ -16,7 +16,7 @@ Silk Icon Project for icons
 ![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen1.png?raw=true "Screenshot")
 ![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen2.png?raw=true "Screenshot")
 
-## Where download a build (compiled program from source codes)? | Где скачать билд (собранную программу из исходных кодов)?
+## Where download compiled program? | Где скачать собранную программу?
 
 [Here](https://github.com/emil0911/free64/releases)
 
