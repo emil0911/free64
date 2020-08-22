@@ -4,7 +4,7 @@
 Program does not copy AIDA64 Extreme, it is just an *alternative*.
 
 **Free64** - это *аналог* AIDA64 Extreme версии 5 и 6, но бесплатная, и с открытым исходным кодом под лицензией GNU LGPL v3.
-Программа не копирует AIDA64 Extreme по коду, а просто является альтернативой.
+Программа не копирует AIDA64 Extreme по коду, а просто является *альтернативой*.
 
 ### Thanks to | Спасибо
 *Silk Icon Project* for icons
@@ -54,7 +54,7 @@ Step 7: Click *Build*.
 
 ![IMAGE](screens/how_to_start/4.png?raw=true)
 
-Step 8: Move *data* directory in output directory (*data* directory from ***[release](https://github.com/emil0911/free64/releases)***)
+Step 8: Move *data* directory in output directory (*data* directory from **[release](https://github.com/emil0911/free64/releases)**)
 
 **Done!**
 
@@ -69,8 +69,7 @@ Step 8: Move *data* directory in output directory (*data* directory from ***[rel
 *Stable* - is very stable release, it may be useful.
 
 ## Donate | Донат
-If someone wants to support my project, the link to *DonationAlerts* is here:
-[HERE](https://donationalerts.com/r/emildalalyan)
+If someone wants to support my project, the link to *DonationAlerts* is [**here**](https://donationalerts.com/r/emildalalyan)
 
 ## Logo | Логотип
 ![IMAGE](https://github.com/emil0911/free64/blob/master/free64-logo.png?raw=true)
