@@ -18,7 +18,7 @@ Silk Icon Project for icons
 
 ## Where download compiled program? | Где скачать собранную программу?
 
-[Here](https://github.com/emil0911/free64/releases)
+[Here | Здесь](https://github.com/emil0911/free64/releases)
 
 ## System Requirements | Системные требования:
 
