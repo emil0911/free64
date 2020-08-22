@@ -11,16 +11,16 @@ Silk Icon Project for icons
 
 Проекту Silk Icon Project за иконки
 
-## Screenshots
+## Screenshots | Скриншоты:
 
 ![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen1.png?raw=true "Screenshot")
 ![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen2.png?raw=true "Screenshot")
 
-## Where download a build?
+## Where download a build (compiled program from source codes)? | Где скачать билд (собранную программу из исходных кодов)?
 
 [Here](https://github.com/emil0911/free64/releases)
 
-## System Requirements
+## System Requirements | Системные требования:
 
 Windows XP SP0 or newer. 
 
@@ -28,7 +28,7 @@ Microsoft Visual C++ 2008 Redistibutable.
 
 ~10 MB Free disk space
 
-## How to compile
+## How to compile? | Как собрать?
 
 Step 1: Download DevelStudio 3: [develstudio.ru](http://develstudio.ru)
 
@@ -58,7 +58,7 @@ Step 8: Move "data" directory in output directory ("data" dir from [release](htt
 
 #### Done!
 
-## Types of releases
+## Types of versions | Типы версий
 
 Alpha - is very not stable release, this release only for acquaintance.
 
@@ -68,9 +68,9 @@ Gamma - is pre-release, it may be useful.
 
 Stable - is very stable release, it may be useful.
 
-## Donate
+## Donate | Донат
 If someone wants to support my project, the link to DonationAlerts is here:
 [HERE](https://donationalerts.com/r/emildalalyan)
 
-## Logo
+## Logo | Логотип
 ![IMAGE](https://github.com/emil0911/free64/blob/master/free64-logo.png?raw=true)
