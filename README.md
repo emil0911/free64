@@ -24,7 +24,7 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 + Microsoft **Visual C++ 2008** Redistibutable.
 
 #### Minimal
-  + Microsoft **Windows XP SP0** or newer. 
+  + Microsoft **Windows XP RTM** or newer. 
   
   + **~10 MB** Free disk space
   
@@ -33,7 +33,7 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 #### Recommended
   + **1024x600** screen
   
-  + Microsoft **Windows 7** or newer
+  + Microsoft **Windows 7 SP1** or newer
 
 ## How to compile? | Как собрать?
 
