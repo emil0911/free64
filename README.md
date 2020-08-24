@@ -45,7 +45,7 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 
 **Step 2.5**: Install *[TOpenChart](https://github.com/emil0911/openChart)*
 
-**Step 3**: Open DevelStudio 3 and click *Open*
+**Step 3**: Open *DevelStudio 3* and click *Open*
 
 ![IMAGE](screens/how_to_start/2.png?raw=true)
 
