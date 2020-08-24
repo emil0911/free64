@@ -18,7 +18,7 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 
 ## Where download compiled program? | Где скачать собранную программу?
 
-**[Here | Здесь](https://github.com/emil0911/free64/releases)**
+[**Here (Здесь)**](https://github.com/emil0911/free64/releases)
 
 ## System Requirements | Системные требования:
 + Microsoft **Visual C++ 2008** Redistibutable.
