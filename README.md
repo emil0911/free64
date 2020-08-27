@@ -10,12 +10,12 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 
 ## Screenshots:
 
-![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen1.png?raw=true "Screenshot")
-![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen2.png?raw=true "Screenshot")
+![Image](https://raw.githubusercontent.com/emil0911/free64/master/screen1.png?raw=true "Screenshot")
+![Image](https://raw.githubusercontent.com/emil0911/free64/master/screen2.png?raw=true "Screenshot")
 
 ## Where download compiled program?
 
-[**Here (Здесь)**](https://github.com/emil0911/free64/releases)
+[**Here**](https://github.com/emil0911/free64/releases)
 
 ## System Requirements:
 + Microsoft **Visual C++ 2008** Redistibutable.
@@ -64,23 +64,23 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 
 ## Types of versions
 
-*Alpha* - is very not stable release, this release only for acquaintance.
+*Alpha* - is **very not stable release**, this release only for acquaintance.
 
-*Beta* - is not very stable release, it may be useful.
+*Beta* - is **not very stable release**, it may be useful.
 
-*Gamma* - is pre-release, it may be useful.
+*Gamma* - is **pre-release**, it may be useful.
 
-*Stable* - is very stable release, it may be useful.
+*Stable* - is **very stable release**, it may be useful.
 
 ## Donate
-If someone wants to support my project, the link to *DonationAlerts* is [**here**](https://donationalerts.com/r/emildalalyan)
+If someone wants to **support** *me* or *my project* with *money*, the link to *DonationAlerts* is [**here**](https://donationalerts.com/r/emildalalyan)
 
 ## Logo in different formats:
   - [PNG](https://github.com/emil0911/free64/blob/master/free64-logo.png?raw=true)
   - [ICO](https://github.com/emil0911/free64/blob/master/free64-logo.ico?raw=true)
   - [Photoshop Document](https://github.com/emil0911/free64/blob/master/free64-logo.psd?raw=true)
   
-**And Gradient Logo:**
+**And gradient logo too:**
   - [PNG](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.png?raw=true)
   - [ICO](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.ico?raw=true)
   - [Photoshop Document](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.psd?raw=true)
