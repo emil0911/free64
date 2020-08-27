@@ -5,20 +5,15 @@
 **Free64** - is an *analogue* of AIDA64 Extreme versions 5 and 6, but free and open source under the GNU LGPL v3 license.
 Program does not copy AIDA64 Extreme, it is just an *alternative*.
 
-**Free64** - это *аналог* AIDA64 Extreme версии 5 и 6, но бесплатная, и с открытым исходным кодом под лицензией GNU LGPL v3.
-Программа не копирует AIDA64 Extreme по коду, а просто является *альтернативой*.
-
 ### Thanks to:
 *Silk Icon Project* for icons
-
-*Silk Icon Project* за иконки
 
 ## Screenshots:
 
 ![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen1.png?raw=true "Screenshot")
 ![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen2.png?raw=true "Screenshot")
 
-## Where download compiled program? | Где скачать собранную программу?
+## Where download compiled program?
 
 [**Here (Здесь)**](https://github.com/emil0911/free64/releases)
 
