@@ -1,3 +1,5 @@
+<img width="200" height="200" align="left" alt="Free64 Logo" src="https://github.com/emil0911/free64/blob/master/free64-logo.png">   
+
 # Free64 Extreme Edition
 
 **Free64** - is an *analogue* of AIDA64 Extreme versions 5 and 6, but free and open source under the GNU LGPL v3 license.
@@ -6,12 +8,12 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 **Free64** - это *аналог* AIDA64 Extreme версии 5 и 6, но бесплатная, и с открытым исходным кодом под лицензией GNU LGPL v3.
 Программа не копирует AIDA64 Extreme по коду, а просто является *альтернативой*.
 
-### Thanks to | Спасибо
+### Thanks to:
 *Silk Icon Project* for icons
 
 *Silk Icon Project* за иконки
 
-## Screenshots | Скриншоты:
+## Screenshots:
 
 ![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen1.png?raw=true "Screenshot")
 ![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen2.png?raw=true "Screenshot")
@@ -20,7 +22,7 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 
 [**Here (Здесь)**](https://github.com/emil0911/free64/releases)
 
-## System Requirements | Системные требования:
+## System Requirements:
 + Microsoft **Visual C++ 2008** Redistibutable.
 
 #### Minimal
@@ -35,7 +37,7 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
   
   + Microsoft **Windows 7 SP1** or newer
 
-## How to compile? | Как собрать?
+## How to compile?
 
 **Step 1**: Download *DevelStudio 3*: [develstudio.ru](http://develstudio.ru)
 
@@ -65,7 +67,7 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 
 **Done!**
 
-## Types of versions | Типы версий
+## Types of versions
 
 *Alpha* - is very not stable release, this release only for acquaintance.
 
@@ -75,8 +77,15 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 
 *Stable* - is very stable release, it may be useful.
 
-## Donate | Донат
+## Donate
 If someone wants to support my project, the link to *DonationAlerts* is [**here**](https://donationalerts.com/r/emildalalyan)
 
-## Logo | Логотип
-![IMAGE](https://github.com/emil0911/free64/blob/master/free64-logo.png?raw=true)
+## Logo in different formats:
+  - [PNG](https://github.com/emil0911/free64/blob/master/free64-logo.png?raw=true)
+  - [ICO](https://github.com/emil0911/free64/blob/master/free64-logo.ico?raw=true)
+  - [Photoshop Document](https://github.com/emil0911/free64/blob/master/free64-logo.psd?raw=true)
+  
+**And Gradient Logo:**
+  - [PNG](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.png?raw=true)
+  - [ICO](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.ico?raw=true)
+  - [Photoshop Document](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.psd?raw=true)
