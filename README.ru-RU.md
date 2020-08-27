@@ -1,91 +1,86 @@
-<img width="128" height="128" align="left" alt="Free64 Logo" src="https://github.com/emil0911/free64/blob/master/free64-logo.png">   
+<img width="128" height="128" align="left" alt="Логотип Free64" src="https://github.com/emil0911/free64/blob/master/free64-logo.png">   
 
 # Free64 Extreme Edition
-
-**Free64** - is an *analogue* of AIDA64 Extreme versions 5 and 6, but free and open source under the GNU LGPL v3 license.
-Program does not copy AIDA64 Extreme, it is just an *alternative*.
 
 **Free64** - это *аналог* AIDA64 Extreme версии 5 и 6, но бесплатная, и с открытым исходным кодом под лицензией GNU LGPL v3.
 Программа не копирует AIDA64 Extreme по коду, а просто является *альтернативой*.
 
-### Thanks to:
-*Silk Icon Project* for icons
-
+### Спасибо:
 *Silk Icon Project* за иконки
 
-## Screenshots:
+## Скриншоты:
 
-![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen1.png?raw=true "Screenshot")
-![Image - Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen2.png?raw=true "Screenshot")
+![Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen1.png?raw=true "Screenshot")
+![Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen2.png?raw=true "Screenshot")
 
-## Where download compiled program? | Где скачать собранную программу?
+## Где скачать собранную программу?
 
-[**Here (Здесь)**](https://github.com/emil0911/free64/releases)
+[**Здесь**](https://github.com/emil0911/free64/releases)
 
-## System Requirements:
+## Системные требования:
 + Microsoft **Visual C++ 2008** Redistibutable.
 
-#### Minimal
-  + Microsoft **Windows XP RTM** or newer. 
+#### Минимальные:
+  + Microsoft **Windows XP RTM** или новее. 
   
-  + **~10 MB** Free disk space
+  + **~10 MB** свободного дискового пространства.
   
-  + **800x600** screen, but Keyboard Test shows incorrectly on this resolution
+  + Экран с разрешением **800x600**, но при таком разрешении Тест Клавиатуры отображается неправильно.
 
-#### Recommended
-  + **1024x600** screen
+#### Рекомендуемые:
+  + Экран с разрешением **1024x600**
   
-  + Microsoft **Windows 7 SP1** or newer
+  + Microsoft **Windows 7 SP1** или новее.
 
-## How to compile?
+## Как скомпилировать самому?
 
-**Step 1**: Download *DevelStudio 3*: [develstudio.ru](http://develstudio.ru)
+**Шаг 1**: Скачайте *DevelStudio 3*: [develstudio.ru](http://develstudio.ru)
 
 ![IMAGE](screens/how_to_start/1.png?raw=true)
 
-**Step 2**: Install it
+**Шаг 2**: Установите *DevelStudio*
 
-**Step 2.5**: Install *[TOpenChart](https://github.com/emil0911/openChart)*
+**Шаг 2.5**: Установите *[TOpenChart](https://github.com/emil0911/openChart)*
 
-**Step 3**: Open *DevelStudio 3* and click *Open*
+**Шаг 3**: Откройте *DevelStudio 3* и нажмите *Открыть*
 
 ![IMAGE](screens/how_to_start/2.png?raw=true)
 
-**Step 4**: Select **[free64.dvs](free64.dvs?raw=true)** file (source file)
+**Шаг 4**: Выберите файл **[free64.dvs](free64.dvs?raw=true)** (файл исходников)
 
-**Step 5**: Press *F5* key
+**Шаг 5**: Нажмите кнопку *F5*
 
-**Step 6**: Select output directory.
+**Шаг 6**: Выберите исходящую директорию.
 
 ![IMAGE](screens/how_to_start/3.png?raw=true)
 
-**Step 7**: Click *Build*.
+**Шаг 7**: Нажмите *Собрать*.
 
 ![IMAGE](screens/how_to_start/4.png?raw=true)
 
-**Step 8**: Move *data* directory in output directory (*data* directory from **[release](https://github.com/emil0911/free64/releases)**)
+**Шаг 8**: Перенесите директорию *data* в папку с скомпилированной программой (директория *data* из **[релиза](https://github.com/emil0911/free64/releases)**)
 
-**Done!**
+**Вуаля, готово!**
 
-## Types of versions
+## Типы версий
 
-*Alpha* - is very not stable release, this release only for acquaintance.
+*Alpha* - **очень не стабильный** релиз, только для ознакомления.
 
-*Beta* - is not very stable release, it may be useful.
+*Beta* - **не очень стабильный** релиз, но уже можно пользоваться.
 
-*Gamma* - is pre-release, it may be useful.
+*Gamma* - это **пре-релиз**, довольно стабилен, может быть полезен.
 
-*Stable* - is very stable release, it may be useful.
+*Stable* - **стабильный** релиз.
 
-## Donate
-If someone wants to support my project, the link to *DonationAlerts* is [**here**](https://donationalerts.com/r/emildalalyan)
+## Донат
+Если кто-то хочет поддержать меня или разработку моей программы, ссылка на *DonationAlerts* [**здесь**](https://donationalerts.com/r/emildalalyan)
 
-## Logo in different formats:
+## Логотип в различных форматах:
   - [PNG](https://github.com/emil0911/free64/blob/master/free64-logo.png?raw=true)
   - [ICO](https://github.com/emil0911/free64/blob/master/free64-logo.ico?raw=true)
   - [Photoshop Document](https://github.com/emil0911/free64/blob/master/free64-logo.psd?raw=true)
   
-**And Gradient Logo:**
+**И градиентный тоже:**
   - [PNG](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.png?raw=true)
   - [ICO](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.ico?raw=true)
   - [Photoshop Document](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.psd?raw=true)
