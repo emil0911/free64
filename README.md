@@ -1,4 +1,4 @@
-<img width="128" height="128" align="left" alt="Free64 Logo" style="margin 5;" src="https://github.com/emil0911/free64/blob/master/free64-logo.png?raw=true">   
+<img width="128" height="128" align="left" alt="Free64 Logo" style="margin 0 5;" src="https://github.com/emil0911/free64/blob/master/free64-logo.png?raw=true">   
 
 # Free64 Extreme Edition
 
