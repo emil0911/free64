@@ -30,7 +30,7 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 #### Recommended
   + **1024x600** screen
   
-  + Microsoft **Windows 7 SP1** or newer
+  + Microsoft **Windows 10**
 
 ## How to compile?
 
