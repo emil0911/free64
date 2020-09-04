@@ -6,7 +6,7 @@
 Программа не копирует AIDA64 Extreme по коду, а просто является *альтернативой*.
 
 ### Спасибо:
-*Silk Icon Project* за иконки
+[*Silk Icon Project*](http://www.famfamfam.com/lab/icons/silk) за иконки
 
 ## Скриншоты:
 
