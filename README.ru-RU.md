@@ -72,9 +72,6 @@
 
 *Stable* - **стабильный** релиз.
 
-## Донат
-Если кто-то хочет поддержать меня или разработку моей программы, ссылка на *DonationAlerts* [**здесь**](https://donationalerts.com/r/emildalalyan)
-
 ## Логотип в различных форматах:
   - [PNG](https://github.com/emil0911/free64/blob/master/free64-logo.png?raw=true)
   - [ICO](https://github.com/emil0911/free64/blob/master/free64-logo.ico?raw=true)
@@ -84,3 +81,6 @@
   - [PNG](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.png?raw=true)
   - [ICO](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.ico?raw=true)
   - [Photoshop Document](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.psd?raw=true)
+  
+### Донат
+Если кто-то хочет поддержать *меня* или *разработку моей программы деньгами*, ссылка на *DonationAlerts* [**здесь**](https://donationalerts.com/r/emildalalyan)
