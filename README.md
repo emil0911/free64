@@ -66,7 +66,7 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 
 ## Types of versions
 
-*Alpha* - is **very not stable release**, this release only for acquaintance.
+*Alpha* - is **very not stable release**, this release only for evaluation.
 
 *Beta* - is **not very stable release**, it may be useful.
 
