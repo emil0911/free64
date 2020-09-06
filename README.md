@@ -8,6 +8,8 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 ### Thanks to:
 [*Silk Icon Project*](http://www.famfamfam.com/lab/icons/silk) for icons
 
+[*UPX*](http://github.com/upx/upx) for packer
+
 ## Screenshots:
 
 ![Image](https://raw.githubusercontent.com/emil0911/free64/master/screen1.png?raw=true "Screenshot")
