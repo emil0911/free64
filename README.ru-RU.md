@@ -8,6 +8,8 @@
 ### Спасибо:
 [*Silk Icon Project*](http://www.famfamfam.com/lab/icons/silk) за иконки
 
+[*UPX*](http://github.com/upx/upx) за упаковщик
+
 ## Скриншоты:
 
 ![Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen1.png?raw=true "Screenshot")
