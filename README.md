@@ -73,7 +73,6 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 *Stable* - is **very stable release**, it may be useful.
 
 ## Logo in different formats:
-
   | Format | Link                                                                                |
   | ------ |------                                                                               |
   | PNG    | [Download](https://github.com/emil0911/free64/blob/master/free64-logo.png?raw=true) |
@@ -81,8 +80,8 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
   | PSD    | [Download](https://github.com/emil0911/free64/blob/master/free64-logo.psd?raw=true) |
   
 **And gradient logo too:**
-  | Format | Link                                                                                |
-  | ------ |------                                                                               |
+  | Format | Link                                                                                         |
+  | ------ |------                                                                                        |
   | PNG    | [Download](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.png?raw=true) |
   | ICO    | [Download](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.ico?raw=true) |
   | PSD    | [Download](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.psd?raw=true) |
