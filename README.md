@@ -73,14 +73,19 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 *Stable* - is **very stable release**, it may be useful.
 
 ## Logo in different formats:
-  - [PNG](https://github.com/emil0911/free64/blob/master/free64-logo.png?raw=true)
-  - [ICO](https://github.com/emil0911/free64/blob/master/free64-logo.ico?raw=true)
-  - [Photoshop Document](https://github.com/emil0911/free64/blob/master/free64-logo.psd?raw=true)
+
+  | Format | Link                                                                                |
+  | ------ |------                                                                               |
+  | PNG    | [Download](https://github.com/emil0911/free64/blob/master/free64-logo.png?raw=true) |
+  | ICO    | [Download](https://github.com/emil0911/free64/blob/master/free64-logo.ico?raw=true) |
+  | PSD    | [Download](https://github.com/emil0911/free64/blob/master/free64-logo.psd?raw=true) |
   
 **And gradient logo too:**
-  - [PNG](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.png?raw=true)
-  - [ICO](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.ico?raw=true)
-  - [Photoshop Document](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.psd?raw=true)
+  | Format | Link                                                                                |
+  | ------ |------                                                                               |
+  | PNG    | [Download](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.png?raw=true) |
+  | ICO    | [Download](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.ico?raw=true) |
+  | PSD    | [Download](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.psd?raw=true) |
 
 ### Donate
 If someone wants to **support** *me* or *my project* with *money*, the link to *DonationAlerts* is [**here**](https://donationalerts.com/r/emildalalyan)
