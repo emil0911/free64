@@ -73,14 +73,14 @@
 *Stable* - **стабильный** релиз.
 
 ## Логотип в различных форматах:
-  | Format | Link                                                                                |
+  | Формат | Ссылка                                                                              |
   | ------ |------                                                                               |
   | PNG    | [Download](https://github.com/emil0911/free64/blob/master/free64-logo.png?raw=true) |
   | ICO    | [Download](https://github.com/emil0911/free64/blob/master/free64-logo.ico?raw=true) |
   | PSD    | [Download](https://github.com/emil0911/free64/blob/master/free64-logo.psd?raw=true) |
   
 **И градиентный тоже:**
-  | Format | Link                                                                                         |
+  | Формат | Ссылка                                                                                       |
   | ------ |------                                                                                        |
   | PNG    | [Download](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.png?raw=true) |
   | ICO    | [Download](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.ico?raw=true) |
