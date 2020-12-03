@@ -5,8 +5,10 @@
 **Free64** - is an *analogue* of AIDA64 Extreme versions 5 and 6, but free and open source under the GNU LGPL v3 license.
 Program does not copy AIDA64 Extreme, it is just an *alternative*.
 
-### Thanks to:
+### Free64 uses:
 [*Silk Icon Project*](http://www.famfamfam.com/lab/icons/silk) for icons
+
+[*gcpuid*](https://github.com/emil0911/gcpuid) for determining CPU instruction set.
 
 [*UPX*](http://github.com/upx/upx) for packer
 
