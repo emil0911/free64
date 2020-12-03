@@ -6,11 +6,11 @@
 Program does not copy AIDA64 Extreme, it is just an *alternative*.
 
 ### Free64 uses:
-[*Silk Icon Project*](http://www.famfamfam.com/lab/icons/silk) for icons
+[*Silk Icon Project*](http://www.famfamfam.com/lab/icons/silk) for some icons
 
 [*gcpuid*](https://github.com/emil0911/gcpuid) for determining CPU instruction set.
 
-[*UPX*](http://github.com/upx/upx) for packer
+[*UPX*](http://github.com/upx/upx) for packing executable
 
 ## Screenshots:
 
