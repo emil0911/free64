@@ -1,4 +1,4 @@
-<img width="128" height="128" align="left" alt="Логотип Free64" src="https://github.com/emil0911/free64/blob/master/free64-logo.png">   
+<img width="128" height="128" align="left" alt="Логотип Free64" src="https://github.com/emildalalyan/free64/blob/master/free64-logo.png">   
 
 # Free64 Extreme Edition
 
@@ -10,16 +10,16 @@
 
 [*UPX*](http://github.com/upx/upx) для упаковки
 
-[*gcpuid*](https://github.com/emil0911/gcpuid) для определения набора инструкций процессора
+[*gcpuid*](https://github.com/emildalalyan/gcpuid) для определения набора инструкций процессора
 
 ## Скриншоты:
 
-![Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen1.png?raw=true "Screenshot")
-![Изображение](https://raw.githubusercontent.com/emil0911/free64/master/screen2.png?raw=true "Screenshot")
+![Изображение](https://raw.githubusercontent.com/emildalalyan/free64/master/screen1.png?raw=true "Screenshot")
+![Изображение](https://raw.githubusercontent.com/emildalalyan/free64/master/screen2.png?raw=true "Screenshot")
 
 ## Где скачать собранную программу?
 
-[**Здесь**](https://github.com/emil0911/free64/releases)
+[**Здесь**](https://github.com/emildalalyan/free64/releases)
 
 ## Системные требования:
 + Microsoft **Visual C++ 2008** Redistibutable.
@@ -44,7 +44,7 @@
 
 **Шаг 2**: Установите *DevelStudio*
 
-**Шаг 2.5**: Установите *[TOpenChart](https://github.com/emil0911/openChart)*
+**Шаг 2.5**: Установите *[TOpenChart](https://github.com/emildalalyan/openChart)*
 
 **Шаг 3**: Откройте *DevelStudio 3* и нажмите *Открыть*
 
@@ -62,7 +62,7 @@
 
 ![IMAGE](screens/how_to_start/4.png?raw=true)
 
-**Шаг 8**: Перенесите директорию *data* в папку с скомпилированной программой (директория *data* из **[релиза](https://github.com/emil0911/free64/releases)**)
+**Шаг 8**: Перенесите директорию *data* в папку с скомпилированной программой (директория *data* из **[релиза](https://github.com/emildalalyan/free64/releases)**)
 
 **Вуаля, готово!**
 
@@ -79,16 +79,16 @@
 ## Логотип в различных форматах:
   | Формат | Ссылка                                                                              |
   | ------ |------                                                                               |
-  | PNG    | [Download](https://github.com/emil0911/free64/blob/master/free64-logo.png?raw=true) |
-  | ICO    | [Download](https://github.com/emil0911/free64/blob/master/free64-logo.ico?raw=true) |
-  | PSD    | [Download](https://github.com/emil0911/free64/blob/master/free64-logo.psd?raw=true) |
+  | PNG    | [Download](https://github.com/emildalalyan/free64/blob/master/free64-logo.png?raw=true) |
+  | ICO    | [Download](https://github.com/emildalalyan/free64/blob/master/free64-logo.ico?raw=true) |
+  | PSD    | [Download](https://github.com/emildalalyan/free64/blob/master/free64-logo.psd?raw=true) |
   
 **И градиентный тоже:**
   | Формат | Ссылка                                                                                       |
   | ------ |------                                                                                        |
-  | PNG    | [Download](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.png?raw=true) |
-  | ICO    | [Download](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.ico?raw=true) |
-  | PSD    | [Download](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.psd?raw=true) |
+  | PNG    | [Download](https://github.com/emildalalyan/free64/blob/master/free64-gradient-logo.png?raw=true) |
+  | ICO    | [Download](https://github.com/emildalalyan/free64/blob/master/free64-gradient-logo.ico?raw=true) |
+  | PSD    | [Download](https://github.com/emildalalyan/free64/blob/master/free64-gradient-logo.psd?raw=true) |
   
 ### Донат
 Если кто-то хочет поддержать *меня* или *разработку моей программы деньгами*, ссылка на *DonationAlerts* [**здесь**](https://donationalerts.com/r/emildalalyan)
