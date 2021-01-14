@@ -1,4 +1,4 @@
-<img width="128" height="128" align="left" alt="Free64 Logo"  src="https://github.com/emil0911/free64/blob/master/free64-logo.png?raw=true">   
+<img width="128" height="128" align="left" alt="Free64 Logo"  src="https://github.com/emildalalyan/free64/blob/master/free64-logo.png?raw=true">   
 
 # Free64 Extreme Edition
 
@@ -8,18 +8,18 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 ### Free64 uses:
 [*Silk Icon Project*](http://www.famfamfam.com/lab/icons/silk) for some icons
 
-[*gcpuid*](https://github.com/emil0911/gcpuid) for determining CPU instruction set.
+[*gcpuid*](https://github.com/emildalalyan/gcpuid) for determining CPU instruction set.
 
 [*UPX*](http://github.com/upx/upx) for packing executable
 
 ## Screenshots:
 
-![Image](https://raw.githubusercontent.com/emil0911/free64/master/screen1.png?raw=true "Screenshot")
-![Image](https://raw.githubusercontent.com/emil0911/free64/master/screen2.png?raw=true "Screenshot")
+![Image](https://raw.githubusercontent.com/emildalalyan/free64/master/screen1.png?raw=true "Screenshot")
+![Image](https://raw.githubusercontent.com/emildalalyan/free64/master/screen2.png?raw=true "Screenshot")
 
 ## Where download compiled program?
 
-[**Here**](https://github.com/emil0911/free64/releases)
+[**Here**](https://github.com/emildalalyan/free64/releases)
 
 ## System Requirements:
 + Microsoft **Visual C++ 2008** Redistibutable.
@@ -44,7 +44,7 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 
 **Step 2**: Install it
 
-**Step 2.5**: Install *[TOpenChart](https://github.com/emil0911/openChart)*
+**Step 2.5**: Install *[TOpenChart](https://github.com/emildalalyan/openChart)*
 
 **Step 3**: Open *DevelStudio 3* and click *Open*
 
@@ -62,7 +62,7 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 
 ![IMAGE](screens/how_to_start/4.png?raw=true)
 
-**Step 8**: Move *data* directory in output directory (*data* directory from **[release](https://github.com/emil0911/free64/releases)**)
+**Step 8**: Move *data* directory in output directory (*data* directory from **[release](https://github.com/emildalalyan/free64/releases)**)
 
 **Done!**
 
@@ -79,16 +79,16 @@ Program does not copy AIDA64 Extreme, it is just an *alternative*.
 ## Logo in different formats:
   | Format | Link                                                                                |
   | ------ |------                                                                               |
-  | PNG    | [Download](https://github.com/emil0911/free64/blob/master/free64-logo.png?raw=true) |
-  | ICO    | [Download](https://github.com/emil0911/free64/blob/master/free64-logo.ico?raw=true) |
-  | PSD    | [Download](https://github.com/emil0911/free64/blob/master/free64-logo.psd?raw=true) |
+  | PNG    | [Download](https://github.com/emildalalyan/free64/blob/master/free64-logo.png?raw=true) |
+  | ICO    | [Download](https://github.com/emildalalyan/free64/blob/master/free64-logo.ico?raw=true) |
+  | PSD    | [Download](https://github.com/emildalalyan/free64/blob/master/free64-logo.psd?raw=true) |
   
 **And gradient logo too:**
   | Format | Link                                                                                         |
   | ------ |------                                                                                        |
-  | PNG    | [Download](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.png?raw=true) |
-  | ICO    | [Download](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.ico?raw=true) |
-  | PSD    | [Download](https://github.com/emil0911/free64/blob/master/free64-gradient-logo.psd?raw=true) |
+  | PNG    | [Download](https://github.com/emildalalyan/free64/blob/master/free64-gradient-logo.png?raw=true) |
+  | ICO    | [Download](https://github.com/emildalalyan/free64/blob/master/free64-gradient-logo.ico?raw=true) |
+  | PSD    | [Download](https://github.com/emildalalyan/free64/blob/master/free64-gradient-logo.psd?raw=true) |
 
 ### Donate
 If someone wants to **support** *me* or *my project* with *money*, the link to *DonationAlerts* is [**here**](https://donationalerts.com/r/emildalalyan)
