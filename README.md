@@ -5,7 +5,7 @@
 **Free64** - is an *analogue* of AIDA64 Extreme versions 5 and 6, but free and open source under the GNU LGPL v3 license.
 Program does not copy AIDA64 Extreme, it is just an *alternative*.
 
-### NOW I'M WRITING FREE64 ON .NET, AND WILL NOT UPDATE THIS VERSION.
+### Check Free64 on .NET
 [Free64 on .NET](https://github.com/emildalalyan/Free64-Sharp)
 
 ### Free64 uses:
